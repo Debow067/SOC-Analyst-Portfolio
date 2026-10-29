@@ -29,11 +29,11 @@ I'm working through TryHackMe's SOC Level 1 training, developing foundational sk
 
 ## 🔎 Security Investigations
 
-This section will contain case studies from my completed cybersecurity labs.
+| Case study | Focus |
+|---|---|
+| [Phishing Email Investigation](investigations/phishing-analysis.md) | Email authentication, social engineering indicators, and alert escalation |
 
-Each case study will document the alert, evidence reviewed, investigative process, findings, and lessons learned.
-
-All investigations are conducted within authorized training environments.
+These case studies describe my analysis of simulated security alerts in authorized training environments. I document observed evidence separately from conclusions and note what would require additional verification.
 
 ## 📈 Continuing Development
 
